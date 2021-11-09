@@ -3,7 +3,7 @@
 <img src = "house_photo.jpg" alt = "">
 
 ## SQL Concepts Utilized
-* UPDATE statements
+* UPDATE
 * ALTER TABLE
 * JOIN
 * Aliasing
